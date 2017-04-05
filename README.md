@@ -7,3 +7,5 @@ The **Hello World** project is a time-honored tradition in computer programming.
 - Start and manage a new branch
 - Make changes to a file and push them to GitHub as commits
 - Open and merge a pull request
+
+This project is nothing special, but it helps me to understand, how I can use GitHub to manage my projects.
